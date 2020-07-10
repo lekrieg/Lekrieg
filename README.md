@@ -1,9 +1,8 @@
 ### Hi 👋
 
-I'm an Indie game developer and I'm currently working on a personal project( a 2D game engine)
+I'm an Indie game developer and I'm currently making a personal project( a 2D game engine)
 to learn more about how everything work on game dev.
-I'm currently learning about mobile development to expand my horizons.
-I have knowledge on **C++**, **Java** and **C#**.
+I'm learning about mobile development to expand my horizons and I have knowledge on **C++**, **Java** and **C#**.
 
 More info on: https://lekrieg.github.io/
 <!--
