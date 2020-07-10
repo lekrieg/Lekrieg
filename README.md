@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi 👋
 
+I'm an Indie game developer and I'm currently working on a personal project( a 2D game engine)
+to learn more about how everything work on game dev.
+I'm currently learning about mobile development to expand my horizons.
+I have knowledge on **C++**, **Java** and **C#**.
+
+More info on: https://lekrieg.github.io/
 <!--
 **Lekrieg/Lekrieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
