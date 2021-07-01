@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm an Indie game developer and I'm currently making a personal project( a 2D game engine)
+I'm an Indie game developer and I'm currently making a personal project( a game engine)
 to learn more about how everything work on game dev.
 I'm learning about mobile development to expand my horizons and I have knowledge on **C++**, **Java** and **C#**.
 
