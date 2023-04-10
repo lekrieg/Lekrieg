@@ -2,7 +2,6 @@
 
 I'm an Indie game developer and I'm currently making a personal project( a game engine)
 to learn more about how everything work on game dev.
-I'm a mid software engineer at CI&T and have knowledge on **C++**, **Java** and **C#**.
 
 More info on: https://lekrieg.github.io/
 <!--
