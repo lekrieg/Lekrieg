@@ -3,6 +3,13 @@
 I'm an Indie game developer and anime/games addicted.
 
 More info on: https://lekrieg.github.io/
+
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=VitorSoaresSilva&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSoaresSilva&count_private=true&theme=tokyonight">
+</p>
+
 <!--
 **Lekrieg/Lekrieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
