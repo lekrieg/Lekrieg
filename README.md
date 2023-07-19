@@ -6,8 +6,8 @@ More info on: https://lekrieg.github.io/
 
 
 <p align = "center">
-  <img  src = "https://github-readme-stats-flax-chi-21.vercel.app/api?username=lekrieg&count_private=true&show_icons=false&theme=dark&line_height=27">
-  <img src = "https://github-readme-stats-flax-chi-21.vercel.app/api/top-langs/?username=lekrieg&count_private=true&theme=dark">
+  <img  src = "https://github-readme-stats-theta-six-57.vercel.app/api?username=lekrieg&count_private=true&show_icons=false&theme=dark&line_height=27">
+  <img src = "https://github-readme-stats-theta-six-57.vercel.app/api/top-langs/?username=lekrieg&count_private=true&theme=dark">
 </p>
 
 <!--
